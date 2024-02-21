@@ -1,0 +1,1 @@
+alert("Please turn on mobile mode for better Exprience!")
